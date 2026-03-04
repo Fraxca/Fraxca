@@ -32,7 +32,7 @@ I enjoy understanding how things work under the hood and improving step by step.
 ## 🛠️ Languages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,sqlite" />
 </p>
 
 ---
