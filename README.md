@@ -12,7 +12,7 @@
 I'm a **developer in constant evolution**, focused on learning by building real projects.  
 I enjoy understanding how things work under the hood and improving step by step.
 
-- 🐍 Python-focused
+- 🐍 Python
 - 🌐 Web fundamentals (HTML & CSS)
 - 🧠 Curious and experimental mindset
 - 📈 Learning by doing real projects
